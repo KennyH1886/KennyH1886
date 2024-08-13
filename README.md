@@ -4,7 +4,7 @@ My name is Kenny Lance Howard, and I am currently a rising senior at North Carol
 
  I am pursuing a Bachelor of Science in Computer Science, driven by a deep passion for technology and innovation.
 
-![Kennys's GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyH1886&show_icons=true&theme=tokyonight)
+![Kennys's GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyH1886&show_icons=true&theme=tokyonight&hide=prs_merged)
 
 
 ## Interests 🔭
