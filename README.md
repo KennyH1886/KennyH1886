@@ -1,4 +1,4 @@
-[![MasterHead](banner.png)
+![MasterHead](banner.png)
 
 ## About Me 💬
 
