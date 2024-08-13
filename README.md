@@ -4,7 +4,7 @@ My name is Kenny Lance Howard, and I am currently a rising senior at North Carol
 
  I am pursuing a Bachelor of Science in Computer Science, driven by a deep passion for technology and innovation.
 
-![Kennys's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Kennys's GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyH1886&show_icons=true&theme=tokyonight)
 
 
 ## Interests 🔭
@@ -19,16 +19,16 @@ Beyond my academic pursuits, I am actively involved in my university's Associati
 
 "Currently, I am focusing on advancing my full-stack development skills, utilizing microservices with multiple APIs and Retrieval-Augmented Generation (RAG) techniques. I am proficient in various programming languages, which I apply in both application development and data science"
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KennyH1886&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact 📫
 
 If you'd like to connect or collaborate, feel free to reach out via LinkedIn or Email. I am always open to new opportunities and excited to explore the ever-evolving tech landscape!
 
-School Email: klhoward3@aggies.ncat.edu
-Personal Email: klhjr1886@gmail.com
-[LinkedIn:](https://www.linkedin.com/in/kenhow1/)
-[Linktree:](https://linktr.ee/kenhow1)
-[Code Portfolio](https://github.com/KennyH1886/Code-Portfolio)
+- School Email: klhoward3@aggies.ncat.edu
+- Personal Email: klhjr1886@gmail.com
+- [LinkedIn:](https://www.linkedin.com/in/kenhow1/)
+- [Linktree:](https://linktr.ee/kenhow1)
+- [Code Portfolio](https://github.com/KennyH1886/Code-Portfolio)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
