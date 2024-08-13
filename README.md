@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/KennyH1886/banner)
+
 ## About Me 💬
 
 My name is Kenny Lance Howard, and I am currently a rising senior at North Carolina A&T State University in Greensboro, North Carolina.
