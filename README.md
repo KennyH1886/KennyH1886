@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/KennyH1886/banner)
+[![MasterHead](banner.png)
 
 ## About Me 💬
 
