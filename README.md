@@ -17,7 +17,7 @@ Beyond my academic pursuits, I am actively involved in my university's Associati
 
 ## Projects ⚡
 
-"Currently, I am focusing on advancing my full-stack development skills, utilizing microservices with multiple APIs and Retrieval-Augmented Generation (RAG) techniques. I am proficient in various programming languages, which I apply in both application development and data science"
+Currently, I am focusing on advancing my full-stack development skills, utilizing microservices with multiple APIs and Retrieval-Augmented Generation (RAG) techniques. I am proficient in various programming languages, which I apply in both application development and data science.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KennyH1886&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
