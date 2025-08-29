@@ -2,9 +2,8 @@
 
 ## About Me 💬
 
-My name is Kenny Lance Howard, and I am currently a rising senior at North Carolina A&T State University in Greensboro, North Carolina.
-
- I am pursuing a Bachelor of Science in Computer Science, driven by a deep passion for technology and innovation.
+My name is Kenny Lance Howard, and I am a Master’s student in Computer Science at North Carolina A&T State University.
+I hold a Bachelor of Science in Computer Science, and my graduate focus for my Masters is in Artificial Intelligence and Data Science. My work and research are driven by a deep passion for technology, innovation, and creating impactful solutions
 
 ![Kennys's GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyH1886&show_icons=true&theme=tokyonight&hide=stars,prs)
 
